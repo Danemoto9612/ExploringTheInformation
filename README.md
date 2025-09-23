@@ -63,3 +63,8 @@ Este repositorio está basado en el libro **Explorando la información con Pytho
 - brew install python
 7. **Ejecuta los ejemplos o scripts de cada capítulo:**
 - python3 capitulo1/ejemplo1.py
+
+## Tecnologías 🛠
+
+- Lenguaje: *Python 3.x.x*  
+- Entorno: *VS Code* 
