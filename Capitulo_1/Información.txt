@@ -1,7 +1,7 @@
-Capitulo 1: 
+# Capitulo 1: 
 Variables, expresiones y sentencias.
 
-Ejercicios:
+## Ejercicios:
 1. Escribir un programa que use <input> para pedirle
 al usuario su nombre y darle la bienvenida
 
