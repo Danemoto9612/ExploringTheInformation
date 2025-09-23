@@ -1,0 +1,14 @@
+Capitulo 1: 
+Variables, expresiones y sentencias.
+
+Ejercicios:
+1. Escribir un programa que use <input> para pedirle
+al usuario su nombre y darle la bienvenida
+
+2. Escribir un programa para pedirle al usuario el 
+número de horas y la tarifa por hora para calcular 
+el salario bruto
+
+3. Escribe un programa que le pida al usuario una temper-
+atura en grados Celsius, la convierta a grados Fahrenheit e imprima
+por pantalla la temperatura convertida

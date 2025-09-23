@@ -1,0 +1,25 @@
+Capitulo 2:
+Ejecución condicional
+
+Ejercicios:
+1. Reescribe el programa del cálculo del salario para darle 
+al empleado 1.5 veces la tarifa horaria para todas las horas 
+trabajadas que excedan de 40
+
+2. Reescribe el programa del salario usando try y except, 
+de modo que el programa sea capaz de gestionar entradas 
+no numéricas con elegancia, mostrando un mensaje y saliendo 
+del programa
+
+3. Escribe un programa que solicite una puntuación entre 0.0 y 
+1.0. Si la puntuación está fuera de ese rango, muestra un mensaje 
+de error. Si la puntuación está entre 0.0 y 1.0, muestra la 
+calificación usando la tabla siguiente:
+
+Puntuación Calificación
+>= 0.9 Sobresaliente
+>= 0.8 Notable
+>= 0.7 Bien
+>= 0.6 Suficiente
+< 0.6 Insuficiente
+
